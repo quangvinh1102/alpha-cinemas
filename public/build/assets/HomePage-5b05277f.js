@@ -1,0 +1,1 @@
+import{T as r}from"./TheMovie-7cf73689.js";import{T as s}from"./TheSlider-c5dde4de.js";import{_ as a,r as e,o as c,c as m,a as o,F as p}from"./app-0cc19bc4.js";const _={components:{TheSlider:s,TheMovie:r}};function i(l,d,f,T,h,u){const t=e("TheSlider"),n=e("TheMovie");return c(),m(p,null,[o(t),o(n)],64)}const M=a(_,[["render",i]]);export{M as default};

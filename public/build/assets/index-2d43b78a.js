@@ -1,0 +1,1 @@
+import{u as t}from"./use-menu-f94f9720.js";import{_ as o}from"./app-0cc19bc4.js";const s={setup(){t().onSelectKeys(["admin-home"])}};function n(e,r,c,a,p,_){return" Đây là trang chủ của admin "}const u=o(s,[["render",n]]);export{u as default};

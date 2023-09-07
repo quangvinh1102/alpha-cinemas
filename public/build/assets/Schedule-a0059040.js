@@ -1,0 +1,1 @@
+import{T as o}from"./TheMovie-7cf73689.js";import{_ as t,r as s,o as c,c as n,a as r}from"./app-0cc19bc4.js";const a={components:{TheMovie:o}},_={id:"shedule"};function p(i,d,m,f,h,l){const e=s("TheMovie");return c(),n("div",_,[r(e)])}const T=t(a,[["render",p]]);export{T as default};

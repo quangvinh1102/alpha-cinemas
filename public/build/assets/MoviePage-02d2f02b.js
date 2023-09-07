@@ -1,0 +1,1 @@
+import{T as e}from"./TheMovie-7cf73689.js";import{_ as t,r as n,o as s,d as r}from"./app-0cc19bc4.js";const c={components:{TheMovie:e}};function a(p,_,i,m,f,d){const o=n("TheMovie");return s(),r(o)}const l=t(c,[["render",a]]);export{l as default};
